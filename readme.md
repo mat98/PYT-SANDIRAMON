@@ -2,7 +2,7 @@
     <strong>V1 - Chapmon</strong>
 </p>
 <p align="center" width="100%">
-    <img alt="chappmon" width="33%" src="https://github.com/mat98/VUEJS-COD3RSTOCKS/blob/main/Chapmon.png"> 
+    <img alt="chappmon" width="33%" src="https://github.com/mat98/PYT-SANDIRAMON/blob/main/assets/sandiramon.png"> 
 </p>
 <!-- ![Chappmon](./Chapmon.png) -->
 <span>Objetivo<span>
