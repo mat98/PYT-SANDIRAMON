@@ -1,8 +1,8 @@
 <p align="center" width="100%">
-    <strong>V1 - Chapmon</strong>
+    <strong>V1 - Sandiramon</strong>
 </p>
 <p align="center" width="100%">
-    <img alt="chappmon" width="33%" src="https://github.com/mat98/PYT-SANDIRAMON/blob/main/assets/sandiramon.png"> 
+    <img alt="sandiramon" width="33%" src="https://github.com/mat98/PYT-SANDIRAMON/blob/main/assets/sandiramon.png"> 
 </p>
 <!-- ![Chappmon](./Chapmon.png) -->
 <span>Objetivo<span>
